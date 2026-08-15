@@ -3,20 +3,24 @@ public:
 int peakindex(vector<int>& arr)
 {
     int size = arr.size();
-    int i = 0;
-    while(i < size)
+    int s = 0;
+    int e = size - 1;
+    int mid = s + (e - s)/2;
+    while(s < e)
     {
-        if(arr[i] < arr[i+1])
+        if(arr[mid] < arr[mid + 1])
         {
-           i++;
+           s = mid + 1;
         }
         else{
-
-            break;
+            e = mid;
         }
+        mid = s + (e - s)/2;  
+        
     }
-    return i;
+    return s;
 }
+
     int peakIndexInMountainArray(vector<int>& arr) {
         int ans = peakindex(arr);
         return ans;
