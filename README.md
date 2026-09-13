@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sayam-1921/DSA-Learning/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sayam-1921/DSA-Learning/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sayam-1921/DSA-Learning/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sayam-1921/DSA-Learning/tree/master/0268-missing-number) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sayam-1921/DSA-Learning/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sayam-1921/DSA-Learning/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
