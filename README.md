@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sayam-1921/DSA-Learning/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sayam-1921/DSA-Learning/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sayam-1921/DSA-Learning/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/sayam-1921/DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sayam-1921/DSA-Learning/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sayam-1921/DSA-Learning/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/sayam-1921/DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 ## Recursion
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sayam-1921/DSA-Learning/tree/master/0344-reverse-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sayam-1921/DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
